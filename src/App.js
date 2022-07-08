@@ -12,7 +12,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Mihir Shingh is Great < /
+        Mihir Singh is Great Velo Gamer < /
         p > <
         a className = "App-link"
         href = "https://reactjs.org"
